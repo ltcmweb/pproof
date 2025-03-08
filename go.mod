@@ -3,7 +3,7 @@ module github.com/ltcmweb/pproof
 go 1.24.0
 
 require (
-	github.com/ltcmweb/ltcd v0.25.2
+	github.com/ltcmweb/ltcd v0.25.3
 	github.com/ltcmweb/ltcd/chaincfg/chainhash v1.0.3
 	lukechampine.com/blake3 v1.2.1
 )
